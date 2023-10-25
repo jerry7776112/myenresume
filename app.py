@@ -117,8 +117,10 @@ st.subheader("Eduation")
 st.write("""
 - 02/2022-Present   GPA: 4.12/4.30
 - Tunghai University, Taichung, Taiwan Master of Engineering, Computer Science
+-  (東海大學-資訊工程學系碩士)
 - 06/2016-06/2020   GPA: 3.17/4.30
 - Tunghai University, Taichung, Taiwan Bachelor of Engineering, Environmental Science and Engineering
+-  (東海大學-環境科學與工程學系學士)
 """   
 )
 
@@ -193,16 +195,20 @@ st.write("06/2023 - Present")
 st.write(
     """
 - ► Produced data engineering side projects, including building openweather ETL using AWS EC2 and S3 and deploying Python-Flask applications using Docker. Use Power BI to create a dynamic visual dashboard for pizza sales data.
+- (製作資料工程side project，包括使用 AWS EC2 和 S3 建置 openweather ETL 以及使用 Docker 部署 Python-Flask 應用程式。 使用 Power BI 為披薩銷售資料建立動態視覺化儀表板。)
 - **Skill Sets: AWS, Apache Airflow, Python, Python-Flask Framework, Makefile, Dockerfile, PostgreSQL, MongoDB, MS SQL, Power BI**
-- ► Use "Tryhackme" to learn Cyber Security and obtain certificates including "Introduction to Cybersecurity", "Pre Security", "Jr Penetration Tester" and more. The skills include Network Exploitation, Web Exploitation, Linux Exploitation, Windows Exploitation, Pentesting
+- ► Use "Tryhackme" to learn Cyber Security and obtain certificates including "Introduction to Cybersecurity", "Pre Security", "Jr Penetration Tester" and more. The skills include Network Exploitation, Web Exploitation, Linux Exploitation, Windows Exploitation, Pentesting.
+- (使用「Tryhackme」進修網路安全課程並獲得包括「網路安全入門」、「進階網路安全」、「初級滲透測試員」等證書。 技能包括網路利用、Web 利用、Linux 利用、Windows 利用、滲透測試。)
 - **Skill Sets: Burp Suite, Metasploit, Nmap, Nessus, Hydra**
 """
 )
 st.write("02/2022 - 06/2023")
 st.write(""" 
-- ► Collect public data from social networking platforms for big data analysis and disinformation tracking
+- ► Collect public data from social networking platforms for big data analysis and disinformation tracking.
+- (從社群網路平台收集公開資料，進行大數據分析和假新聞追蹤。）
 - **Skill Sets: Vulnerability Assessment Concepts, Information Security Implementation, Big Data Analysis, Big Data Processing, Social Network Analysis, Paper Review, Paper Writing, Presentation Skills**
-- ► For Cyber Security, build a ''Penetration Testing'' and ''Vulnerability Assessment'' environment using VMware virtual machine, and use a second virtual machine, Kali Linux, as the attacking party for testing; paper review, paper writing, and presentation skills
+- ► For Cyber Security, build a ''Penetration Testing'' and ''Vulnerability Assessment'' environment using VMware virtual machine, and use a second virtual machine, Kali Linux, as the attacking party for testing; paper review, paper writing, and presentation skills.
+- (網路安全方面，使用 VMware 虛擬機器建立『滲透測試』和『漏洞評估』環境，並使用第二個虛擬機器 Kali Linux 作為攻擊方進行測試;論文審查、論文撰寫和演講技巧、滲透測試技巧。)
 - **Skill Sets: Virtual Machine, Penetration Testing Concepts, Vulnerability Assessment Concepts, Information Security Implementation** 
 """
 )
@@ -210,6 +216,7 @@ st.write("🚧", "**Teaching Assistant | Department of Computer Science, Tunghai
 st.write("02/2022 - 06/2022")
 st.write("""
 - ► Instructing discussion sessions in the course of Artificial Intelligence.
+- (在人工智慧概論課程中指導學生與帶領討論。)
 - **Skill Sets: Basic Artificial Intelligence Concepts, Basic Computer Science Concepts, Communication & Team-Work**
 """)
 
@@ -220,20 +227,30 @@ st.write("01/2023 - 06/2023")
 st.write(
     """
 - ► Based on the developed API & ETL pipeline, about 30 million pieces of public data of social networks were obtained.
+- (利用取得的約3,000萬個社群網路公開資料，開發了API和ETL程序。)
 - ► A social network analysis study was conducted using approximately 30 million pieces of public data.
+- (使用大約 3000 萬個公開資料進行了社群網絡分析研究。)
 - ► Based on the research questions, we visualized the social network for the social network message dissemination phenomenon study.
+- (根據研究問題，我們將社群網路視覺化，進行社群網路訊息現象研究。)
 - **Skill Sets: Big Data Analysis, Big Data Processing, Data Visualization, Social Network Analysis**
 """
 )
 st.write("07/2022 - 12/2022")
 st.write("""
-- ► The VMware virtual machine build uses a combination of deep learning semantic similarity analysis and artificial intelligence to develop an online social network API
-- ► Packages VMware for delivery as a VMDK file
+- ► The VMware virtual machine build uses a combination of deep learning semantic similarity analysis and artificial intelligence to develop an online social network API.
+- (使用VMware虛擬機建構了結合深度學習語意相似性分析和人工智慧來開發線上社群網路可疑訊息追蹤API。)
+- ► Packages VMware for delivery as a VMDK file.
+- (將開發後的VMware打包為VMDK檔案。)
 - ► The development process uses Git for version control and facilitates collaboration with other engineers.
+- (開發過程中使用Git進行版本控制，方便與其他工程師的協作。)
 - ► About 30 million social network public data were built into the PostgreSQL database, and design the database index to improve the search performance from the original 30 seconds per search to 0.77 seconds.
-- ► Using Python Flask web application framework was combined with PostgreSQL to develop the API
-- ► About 6 million social network public data were built into the MongoDB database, and design the database index to improve the search performance
-- ► Using Python Flask web application framework was combined with MongoDB to develop the API
+- (將約3000萬條社群網路公開資料建置在PostgreSQL資料庫中，並設計資料庫索引，將搜尋效能從原來的每次搜尋30秒提高到0.77秒。)
+- ► Using Python Flask web application framework was combined with PostgreSQL to develop the API.
+- (使用Python Flask框架結合PostgreSQL開發API。)
+- ► About 6 million social network public data were built into the MongoDB database, and design the database index to improve the search performance.
+- (將約600萬則社群網路公開資料建置到MongoDB資料庫中，並設計資料庫索引以提高搜尋效能。)
+- ► Using Python Flask web application framework was combined with MongoDB to develop the API.
+- (使用Python Flask框架結合MongoDB開發API。)
 - **Skill Sets: Virtual Machine, Natural Language Processing, Deep Learning, API Development, SQL, Git, Team-Work**
 """)
 
@@ -244,8 +261,11 @@ st.write("07/2021 - 10/2021")
 st.write(
     """
 - ► Learn basic concepts of Python and R programming, data processing skills, as well as data visualization and artificial intelligence machine learning concepts.
+- (學習Python和R程式設計的基本概念、資料處理技能，以及資料視覺化和人工智慧機器學習概念。)
 - ► Participated in the "2021 Data Station" competition, using the "PChome product purchase list" dataset provided by the organizer.
+- (參加「2021 Data Station」企業數據競賽，使用主辦單位提供的「PChome產品購買清單」資料集進行分析。)
 - ► Based on the dataset, I processed and added new features to the data, and used third-party data to overlay it, and used Python machine learning algorithms such as decision trees and random forests to analyze the frequency of customers' purchases.
+- (根據資料集，對資料進行了處理和新增特徵，並使用第三方資料對其進行疊加，最後使用決策樹、隨機森林等Python機器學習演算法來分析客戶的購買頻率。)
 - **Skill Sets: Python Programming, R Programming, Data Processing Skills, Data Visualization, Data Analysis Based on Enterprise Data, Basic Artificial Intelligence Concepts**
 """
 )
