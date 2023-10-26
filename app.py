@@ -11,6 +11,10 @@ current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "MyCV.pdf"
 profile_pic = current_dir / "assets" / "me.jpg"
+good1 = current_dir / "assets" / "good1.jpg"
+good2 = current_dir / "assets" / "good2.jpg"
+good3 = current_dir / "assets" / "good3.jpg"
+good4 = current_dir / "assets" / "good4.jpg"
 
 
 # --- GENERAL SETTINGS ---
@@ -71,6 +75,10 @@ with open(css_file) as f:
 with open(resume_file, "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 profile_pic = Image.open(profile_pic)
+good1 = Image.open(good1)
+good2 = Image.open(good2)
+good3 = Image.open(good3)
+good4 = Image.open(good4)
 
 
 # --- HERO SECTION ---
@@ -195,7 +203,7 @@ st.write("06/2023 - Present")
 st.write(
     """
 - ► Produced data engineering side projects, including building openweather ETL using AWS EC2 and S3 and deploying Python-Flask applications using Docker. Use Power BI to create a dynamic visual dashboard for pizza sales data.
-- (製作資料工程side project，包括使用 AWS EC2 和 S3 建置 openweather ETL 以及使用 Docker 部署 Python-Flask 應用程式。 使用 Power BI 為披薩銷售資料建立動態視覺化儀表板。)
+- (開發資料工程相關專案，包括使用 AWS EC2 和 S3 建置 openweather ETL 以及使用 Docker 部署 Python-Flask 應用程式。 使用 Power BI 為披薩銷售資料建立動態視覺化儀表板。)
 - **Skill Sets: AWS, Apache Airflow, Python, Python-Flask Framework, Makefile, Dockerfile, PostgreSQL, MongoDB, MS SQL, Power BI**
 - ► Use "Tryhackme" to learn Cyber Security and obtain certificates including "Introduction to Cybersecurity", "Pre Security", "Jr Penetration Tester" and more. The skills include Network Exploitation, Web Exploitation, Linux Exploitation, Windows Exploitation, Pentesting.
 - (使用「Tryhackme」進修網路安全課程並獲得包括「網路安全入門」、「進階網路安全」、「初級滲透測試員」等證書。 技能包括網路利用、Web 利用、Linux 利用、Windows 利用、滲透測試。)
@@ -208,7 +216,7 @@ st.write("""
 - (從社群網路平台收集公開資料，進行大數據分析和假新聞追蹤。）
 - **Skill Sets: Vulnerability Assessment Concepts, Information Security Implementation, Big Data Analysis, Big Data Processing, Social Network Analysis, Paper Review, Paper Writing, Presentation Skills**
 - ► For Cyber Security, build a ''Penetration Testing'' and ''Vulnerability Assessment'' environment using VMware virtual machine, and use a second virtual machine, Kali Linux, as the attacking party for testing; paper review, paper writing, and presentation skills.
-- (網路安全方面，使用 VMware 虛擬機器建立『滲透測試』和『漏洞評估』環境，並使用第二個虛擬機器 Kali Linux 作為攻擊方進行測試;論文審查、論文撰寫和演講技巧、滲透測試技巧。)
+- (網路安全方面，使用 VMware 虛擬機器建立「滲透測試」和「漏洞評估」環境，並使用第二個虛擬機器 Kali Linux 作為攻擊方進行測試;論文審查、論文撰寫和演講技巧、滲透測試技巧。)
 - **Skill Sets: Virtual Machine, Penetration Testing Concepts, Vulnerability Assessment Concepts, Information Security Implementation** 
 """
 )
@@ -291,3 +299,40 @@ st.subheader("Awards")
 st.write("---")
 for project, link in Awards.items():
     st.write(f"[{project}]({link})")
+
+# School Clubs
+st.write('\n')
+st.subheader("School Clubs")
+st.write("---")
+st.write("🚧", "**Goodwill Ambassador 親善大使 | Tunghai University**")
+st.write("09/2018 - 09/2020")
+st.write(
+    """
+- ► 擔任東海大學校園導覽接待人員。
+- ► 擔任 2019 寒假大學博覽會校務宣傳及系所簡介人員。
+- ► 擔任 2019 東海大學-大學申請入學服務接待人員。
+- ► 擔任 2019 東海大學-畢業典禮薪火相傳人員。
+- ► 擔任 2019 私立大專校院人事主管會報接待人員。
+- ► 擔任 2019 暑假大學博覽會校務宣傳及系所簡介人員。
+- ► 擔任 2019 台中市大墩美展接待人員。
+- ► 擔任 2020 東海大學-大學申請入學服務接待人員。
+- **Skill Sets: 溝通能力、口語表達、熱情培養、隊輔領導、活動企劃、創意行銷、團隊合作**
+"""
+)
+col1, col2 = st.columns(2, gap="small")
+with col1:
+    st.image(good1, width=280)
+    st.write("**--------2019大學博覽會宣傳人員--------**")
+
+with col2:
+    st.image(good2, width=280)
+    st.write("**2019私立大專校院人事主管會報接待人員**")
+
+col3, col4 = st.columns(2, gap="small")
+with col3:
+    st.image(good3, width=280)
+    st.write("**---------------畢業典禮接待---------------**")
+
+with col4:
+    st.image(good4, width=280)
+    st.write("**--------第24屆大墩美展接待人員--------**")
