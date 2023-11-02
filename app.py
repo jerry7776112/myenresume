@@ -47,6 +47,7 @@ Awards = {
 }
 
 PROJECTS = {
+    "🏆 AirFlowTutorial-NOTE": "https://github.com/jerry7776112/AirFlowTutorial",
     "🏆 DockerTutorial(Zero to Hero)-NOTE": "https://github.com/jerry7776112/dockerTutorial",
     "🏆 ETL 語意相似度分析": "https://github.com/jerry7776112/SemanticSimilarityETL",
     "🏆 Python & Kafka 餐點訂單分散式系統設計": "https://github.com/jerry7776112/pythonKafka",
@@ -54,6 +55,7 @@ PROJECTS = {
     "🏆 使用pgAdmin操作Docker上的PostgreSQL": "https://github.com/jerry7776112/dockerSQLtoLocal",
     "🏆 利用AWS建立Open Weather ETL 並整合至 Apache Airflow": "https://github.com/jerry7776112/openweatherETL",
     "🏆 系統CPU & Memory監控 Flask & Docker 實作": "https://github.com/jerry7776112/pythonFlaskAppDocker",
+    "🏆 SQL Server Integration Services (SSIS) 實作": "https://github.com/jerry7776112/SSISwork",
     "🏆 資料模型設計實作": "https://github.com/jerry7776112/buildingDataModel",
     "🏆 AIS3-信用卡盜刷偵測": "https://drive.google.com/file/d/1FAm_uNvjlaySmr14Okb0yNIA9KAfXuXw/view?usp=sharing",
     "🏆 新經濟創與創新營運(創新提案)-穆斯林SuperApp": "https://drive.google.com/file/d/1wCJA2xUDWUa06Uvnt0cQZfe3AxvyCKRi/view?usp=drive_link",
@@ -198,7 +200,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Research Assistant - Secure Social Computing Laboratory | Department of Computer Science, Tunghai University**")
+st.write("🚧", "**Research Assistant - Secure Social Computing Laboratory | Department of Computer Science, Tunghai University (東海大學資訊工程學系-安全社群計算實驗室)**")
 st.write("06/2023 - Present")
 st.write(
     """
@@ -220,7 +222,7 @@ st.write("""
 - **Skill Sets: Virtual Machine, Penetration Testing Concepts, Vulnerability Assessment Concepts, Information Security Implementation** 
 """
 )
-st.write("🚧", "**Teaching Assistant | Department of Computer Science, Tunghai University**")
+st.write("🚧", "**Teaching Assistant | Department of Computer Science, Tunghai University (東海大學資訊工程學系)**")
 st.write("02/2022 - 06/2022")
 st.write("""
 - ► Instructing discussion sessions in the course of Artificial Intelligence.
@@ -322,7 +324,7 @@ st.write(
 col1, col2 = st.columns(2, gap="small")
 with col1:
     st.image(good1, width=280)
-    st.write("**--------2019大學博覽會宣傳人員--------**")
+    st.write("**-------2019大學博覽會宣傳人員--------**")
 
 with col2:
     st.image(good2, width=280)
@@ -331,7 +333,7 @@ with col2:
 col3, col4 = st.columns(2, gap="small")
 with col3:
     st.image(good3, width=280)
-    st.write("**---------------畢業典禮接待---------------**")
+    st.write("**--------------畢業典禮接待-------------**")
 
 with col4:
     st.image(good4, width=280)
