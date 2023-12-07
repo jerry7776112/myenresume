@@ -31,6 +31,7 @@ SOCIAL_MEDIA = {
 }
 Certificate = {
     "► TUV NORD - Sustainability Management Manger(企業永續管理師)": "https://drive.google.com/file/d/1DqT6sA-XyZsDZTFxtpqv2RMCMQJdzWdr/view?usp=sharing",
+    "► 社團法人台灣產業永續發展協會(企業永續管理師)研習": "https://drive.google.com/file/d/1dIOso5s9tEgbpaBOky_rzY-y8aZDwXxn/view?usp=sharing",
     "► 2023 AIS3": "https://drive.google.com/file/d/1HOEAjDWpNBIF1rdNTN5SBQ-fcYiVcM5I/view?usp=share_link",
     "► 2021企業數據競賽": "https://drive.google.com/file/d/1WxWVO4X9hkPlcIP_Jw5WljkiceCGaSNk/view?usp=share_link",
     "► Career Essentials in Data Analysis by Microsoft and LinkedIn": "https://drive.google.com/file/d/1Vnnx_V0jHl7Kb4vOY2OLGoSzqOGVt0Px/view?usp=share_link",
@@ -41,29 +42,37 @@ Certificate = {
 
 
 Awards = {
-    "Session C4 : Social Media Security-Best Session Award":"https://drive.google.com/file/d/101XLGn2in1Kpse-jb0v-3Vy42Wiya0R_/view?usp=sharing",
-    "Tracking of Disinformation Sources Based on Online Social Media: Examining Pages and URLs with BFS Evolution | CISC2023 第三十三屆全國資訊安全會議": "https://drive.google.com/file/d/1jsVZEON5R6CBKJqmoWwMq2LzJQdbKFFu/view?usp=share_link"
+    "**最佳論文獎-佳作:**":"https://drive.google.com/file/d/1EOHi93YNt365NxS2OO1D3rZQ9vPuLvTJ/view?usp=sharing",
+    "全文投稿-Tracking of Disinformation Sources Based on Online Social Media: Examining Pages and URLs with BFS Evolution | CISC2023 第三十三屆全國資訊安全會議": "https://drive.google.com/file/d/1TJlLnQBVB24F5d7XAas3b0gZe3xKinhS/view?usp=sharing",
 
+    "**最佳簡報獎 Session C4 : Social Media Security:**":"https://drive.google.com/file/d/101XLGn2in1Kpse-jb0v-3Vy42Wiya0R_/view?usp=sharing",
+    "摘要投稿-Tracking of Disinformation Sources Based on Online Social Media: Examining Pages and URLs with BFS Evolution | CISC2023 第三十三屆全國資訊安全會議": "https://drive.google.com/file/d/1jsVZEON5R6CBKJqmoWwMq2LzJQdbKFFu/view?usp=share_link"
 }
 
 PROJECTS = {
-    "🏆 AirFlowTutorial-NOTE": "https://github.com/jerry7776112/AirFlowTutorial",
-    "🏆 DockerTutorial(Zero to Hero)-NOTE": "https://github.com/jerry7776112/dockerTutorial",
-    "🏆 ETL 語意相似度分析": "https://github.com/jerry7776112/SemanticSimilarityETL",
-    "🏆 Python & Kafka 餐點訂單分散式系統設計": "https://github.com/jerry7776112/pythonKafka",
-    "🏆 SQL to Power BI Pizza銷售資料視覺化": "https://github.com/jerry7776112/SQLtoPowerBI",
-    "🏆 使用pgAdmin操作Docker上的PostgreSQL": "https://github.com/jerry7776112/dockerSQLtoLocal",
-    "🏆 利用AWS建立Open Weather ETL 並整合至 Apache Airflow": "https://github.com/jerry7776112/openweatherETL",
-    "🏆 系統CPU & Memory監控 Flask & Docker 實作": "https://github.com/jerry7776112/pythonFlaskAppDocker",
-    "🏆 SQL Server Integration Services (SSIS) 實作": "https://github.com/jerry7776112/SSISwork",
-    "🏆 資料模型設計實作": "https://github.com/jerry7776112/buildingDataModel",
-    "🏆 AIS3-信用卡盜刷偵測": "https://drive.google.com/file/d/1FAm_uNvjlaySmr14Okb0yNIA9KAfXuXw/view?usp=sharing",
-    "🏆 新經濟創與創新營運(創新提案)-穆斯林SuperApp": "https://drive.google.com/file/d/1wCJA2xUDWUa06Uvnt0cQZfe3AxvyCKRi/view?usp=drive_link",
-    "🏆 數位科技的商業價值創造(創新提案)-虛擬生命園區平台": "https://drive.google.com/file/d/14c3jHwvgb1vwbvW_rWzbRfu2dW7X4BMp/view?usp=drive_link"
+    "🏆 資料工程-(AirFlowTutorial-NOTE)": "https://github.com/jerry7776112/AirFlowTutorial",
+    "🏆 資料工程-(SQL Server Integration Services (SSIS) 實作)": "https://github.com/jerry7776112/SSISwork",
+    "🏆 資料工程-(資料模型設計實作)": "https://github.com/jerry7776112/buildingDataModel",
+    "🏆 資料工程-(ETL 語意相似度分析)": "https://github.com/jerry7776112/SemanticSimilarityETL",
+    "🏆 資料工程-(Python & Kafka 餐點訂單分散式系統設計)": "https://github.com/jerry7776112/pythonKafka",
+    "🏆 資料工程-(SQL to Power BI Pizza銷售資料視覺化)": "https://github.com/jerry7776112/SQLtoPowerBI",
+    "🏆 資料工程-(使用pgAdmin操作Docker上的PostgreSQL)": "https://github.com/jerry7776112/dockerSQLtoLocal",
+    "🏆 資料工程-(利用AWS建立Open Weather ETL 並整合至 Apache Airflow)": "https://github.com/jerry7776112/openweatherETL",
+    "🏆 容器化-(系統CPU & Memory監控 Flask & Docker 實作)": "https://github.com/jerry7776112/pythonFlaskAppDocker",
+    "🏆 容器化-(DockerTutorial(Zero to Hero)-NOTE)": "https://github.com/jerry7776112/dockerTutorial",
+    "🏆 測試-(pytestTutorial)": "https://github.com/jerry7776112/pytestTutorial",
+    "🏆 資訊安全-(使用python開發端口掃描工具)": "https://github.com/jerry7776112/Port_Scan_by_Python",
+    "🏆 資訊安全-(使用python開發SQL注入檢測工具)": "https://github.com/jerry7776112/SQL_Injection_Scan_by_Python",
+    "🏆 資訊安全-(網頁安全-滲透測試&漏洞修復實作)": "https://github.com/jerry7776112/WebSecurityPentesting",
+    "🏆 資訊安全-(AIS3-信用卡盜刷偵測)": "https://drive.google.com/file/d/1FAm_uNvjlaySmr14Okb0yNIA9KAfXuXw/view?usp=sharing",
+    "🏆 技術文章-(NoSQL & SOL比較與介紹)":"https://github.com/jerry7776112/NoSQLvsSQL",
+    "🏆 創新提案-(新經濟創與創新營運(穆斯林SuperApp))": "https://drive.google.com/file/d/1wCJA2xUDWUa06Uvnt0cQZfe3AxvyCKRi/view?usp=drive_link",
+    "🏆 創新提案-(數位科技的商業價值創造(虛擬生命園區平台))": "https://drive.google.com/file/d/14c3jHwvgb1vwbvW_rWzbRfu2dW7X4BMp/view?usp=drive_link"
 }
 
 PUBLICATION = {
-    "► Tracking of Disinformation Sources Based on Online Social Media: Examining Pages and URLs with BFS Evolution | CISC2023 第三十三屆全國資訊安全會議": "https://drive.google.com/file/d/1jsVZEON5R6CBKJqmoWwMq2LzJQdbKFFu/view?usp=share_link" ,
+    "► 全文投稿-Tracking of Disinformation Sources Based on Online Social Media: Examining Pages and URLs with BFS Evolution | CISC2023 第三十三屆全國資訊安全會議": "https://drive.google.com/file/d/1TJlLnQBVB24F5d7XAas3b0gZe3xKinhS/view?usp=sharing",
+    "► 摘要投稿-Tracking of Disinformation Sources Based on Online Social Media: Examining Pages and URLs with BFS Evolution | CISC2023 第三十三屆全國資訊安全會議": "https://drive.google.com/file/d/1jsVZEON5R6CBKJqmoWwMq2LzJQdbKFFu/view?usp=share_link" ,
     "► 基於區塊鏈建立去中心化社群平台之共識演算法研析 | CISC2022 第三十二屆全國資訊安全會議": "https://drive.google.com/file/d/17BTHvmWmHHO6cFuzemgteEkjwKDbiltb/view?usp=sharing"
 }
 
@@ -113,6 +122,7 @@ st.subheader("Research Directions")
 st.write(
     """
 - ✔️ Social Media Security
+- ✔️ Cyber Security
 - ✔️ Data Mining
 - ✔️ Data Engineering
 - ✔️ Web System Development
@@ -182,6 +192,7 @@ st.write(
 - 📊 Data Visulization: PowerBI, Plotly, Seaborn, Matplotlib
 - 📊 Social Network Visualization: Gephi
 - 📝 Python Web Framework: Flask
+- 📝 Test: postman, pytest
 - 🗄️ Databases: PostgresSQL, MongoDB, MySQL
 - 🗄️ Virtual Machine: VirtualBox, VMware, Hyper-V
 - 🗄️ OS: Windows, Linux
