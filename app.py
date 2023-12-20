@@ -66,8 +66,10 @@ PROJECTS = {
     "🏆 資訊安全-(網頁安全-滲透測試&漏洞修復實作)": "https://github.com/jerry7776112/WebSecurityPentesting",
     "🏆 資訊安全-(AIS3-信用卡盜刷偵測)": "https://drive.google.com/file/d/1FAm_uNvjlaySmr14Okb0yNIA9KAfXuXw/view?usp=sharing",
     "🏆 技術文章-(NoSQL & SOL比較與介紹)":"https://github.com/jerry7776112/NoSQLvsSQL",
+    "🏆 技術文章-(常見API架構介紹)":"https://github.com/jerry7776112/APIcommon",
     "🏆 創新提案-(新經濟創與創新營運(穆斯林SuperApp))": "https://drive.google.com/file/d/1wCJA2xUDWUa06Uvnt0cQZfe3AxvyCKRi/view?usp=drive_link",
-    "🏆 創新提案-(數位科技的商業價值創造(虛擬生命園區平台))": "https://drive.google.com/file/d/14c3jHwvgb1vwbvW_rWzbRfu2dW7X4BMp/view?usp=drive_link"
+    "🏆 創新提案-(數位科技的商業價值創造(虛擬生命園區平台))": "https://drive.google.com/file/d/14c3jHwvgb1vwbvW_rWzbRfu2dW7X4BMp/view?usp=drive_link",
+    "🏆 競業分析-(Spotify競業分析)":"https://drive.google.com/file/d/1QYAi5gdF_L1Dmec5krquGcNIV8FMPGwR/view?usp=sharing"
 }
 
 PUBLICATION = {
