@@ -137,7 +137,7 @@ st.write(
 st.write('\n')
 st.subheader("Eduation")
 st.write("""
-- 02/2022-Present   GPA: 4.12/4.30
+- 02/2022-01/2024   GPA: 4.14/4.30
 - Tunghai University, Taichung, Taiwan Master of Engineering, Computer Science
 -  (東海大學-資訊工程學系碩士)
 - 06/2016-06/2020   GPA: 3.17/4.30
