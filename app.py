@@ -214,7 +214,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("🚧", "**Research Assistant - Secure Social Computing Laboratory | Department of Computer Science, Tunghai University (東海大學資訊工程學系-安全社群計算實驗室)**")
-st.write("06/2023 - Present")
+st.write("06/2023 - 01/2024")
 st.write(
     """
 - ► Produced data engineering side projects, including building openweather ETL using AWS EC2 and S3 and deploying Python-Flask applications using Docker. Use Power BI to create a dynamic visual dashboard for pizza sales data.
